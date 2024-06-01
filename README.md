@@ -38,7 +38,7 @@ A custom component that displays the application's header, including the title a
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/rn-assignment3-11210904.git
+    git clone https://github.com/emkay3251/rn-assignment3-11210904.git
     ```
 
 2. **Navigate to the project directory:**
